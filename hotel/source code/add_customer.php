@@ -63,7 +63,7 @@
                                         <div class="form-group row">
                                             <label class="col-lg-4 col-form-label" for="val-phoneus">Contact<span class="text-danger">*</span></label>
                                             <div class="col-lg-6">
-                                                <input type="text" class="form-control" id="val-phoneus" name="contact" placeholder="212-999-0000" minlength="10" maxlength="10" pattern="^[0][1-9]\d{9}$|^[1-9]\d{9}$" required="">
+                                                <input type="text" class="form-control" id="val-phoneus" name="contact" placeholder="980-000-0000" minlength="10" maxlength="10" pattern="^[0][1-9]\d{9}$|^[1-9]\d{9}$" required="">
                                             </div>
                                         </div>
                                         <div class="form-group row">
